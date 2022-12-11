@@ -1,3 +1,5 @@
+For Linux. Need a Wine
+
 <h1 align="center">
 <img align="center" src="https://user-images.githubusercontent.com/64536760/206871090-fab3160b-d4de-485d-bbd8-e2529b3b2037.png" width="50%"><br>
 </h1>
